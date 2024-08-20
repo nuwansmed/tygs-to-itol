@@ -1,0 +1,155 @@
+DATASET_HEATMAP
+
+# Define separator for data
+SEPARATOR COMMA
+
+# Heatmap label
+DATASET_LABEL,example_heatmap
+
+# Field labels
+FIELD_LABELS,delta statistics
+
+# Display settings
+MARGIN,0
+STRIP_WIDTH,25
+SHOW_INTERNAL,0
+DASHED_LINES,1
+SHOW_TREE,1
+COLOR_NAN,#000000
+AUTO_LEGEND,0
+
+
+
+# Gradient colors for delta statistics (shades of red)
+COLOR_MIN,#ff0000
+COLOR_MID,#ffa07a
+COLOR_MAX,#ffffff
+
+# Normalization settings
+DATA_NORMALIZATION,columns
+NORMALIZATION_TYPE,scaling
+
+# Value display settings
+DISPLAY_VALUES,normalized
+ROUND_VALUES,2
+VALUES_SCI_NOTATION,1
+VALUE_COLOR,#000000
+VALUE_AUTO_COLOR,1
+
+
+# Data section
+DATA
+
+
+Bacillus paralicheniformis KJ-16,0.1325757575757574
+'Bacillus pumilus' (GCA_900186955.1),0.2159090909090908
+Bacillus cereus ATCC 14579,0.5871212121212119
+'Bacillus atrophaeus ATCC 9372-1' (GCA_000204705.2),0.159090909090909
+Bacillus safensis FO-36b,0.106060606060606
+Bacillus halotolerans ATCC 25096,0.0643939393939393
+Bacillus methylotrophicus KACC 13105,0.0833333333333333
+Bacillus xiamenensis HYC-10,0.1477272727272726
+Bacillus mojavensis KCTC 3706,0.0378787878787878
+'Bacillus amyloliquefaciens XH7' (GCA_000221645.1),0.159090909090909
+'Bacillus anthracis str. Ames' (GCA_000007845.1),0.5719696969696968
+'Bacillus velezensis SQR9' (GCA_000685725.1),0.0946969696969696
+Bacillus tequilensis NCTC13306,0.2196969696969696
+'Bacillus rugosus SPB7',0.0492424242424241
+Bacillus luti MCCC 1A00359,0.3257575757575756
+'Bacillus pumilus' (GCA_000691485.2),0.2234848484848484
+'Bacillus mojavensis RO-H-1 = KCTC 3706' (GCA_000507105.1),0.0378787878787878
+Bacillus haynesii NRRL B-41327,0.1098484848484848
+Marinomonas rhodophyticola KJ51-3,1.0
+'Bacillus subtilis' (GCA_000772165.1),0.0946969696969696
+'Bacillus subtilis subsp. subtilis str. BAB-1' (GCA_000349795.1),0.0795454545454545
+Bacillus spizizenii TU-B-10,0.1287878787878786
+'Bacillus cereus VD146' (GCA_000399425.1),0.3863636363636362
+Bacillus basilensis 403507-21,0.5757575757575756
+Bacillus nakamurai NRRL B-41091,0.1098484848484848
+'Bacillus amyloliquefaciens' (GCA_001866745.1),0.1363636363636362
+Streptomyces microflavus JCM 4496,0.7348484848484849
+'Bacillus cellulasensis NCIM 5461',0.1098484848484848
+Bacillus pumilus NCTC 10337,0.2196969696969696
+'Bacillus atrophaeus subsp. globigii' (GCA_000742675.1),0.1893939393939393
+Bacillus fungorum 17-SMS-01,0.268939393939394
+Bacillus albus N35-10-2,0.2992424242424243
+'Bacillus cereus Rock3-42' (GCA_000161235.1),0.2045454545454545
+'Bacillus subtilis subsp. spizizenii TU-B-10' (GCA_000227465.1),0.1287878787878786
+Bacillus altitudinis DSM 21631,0.1136363636363636
+'Bacillus tequilensis' (GCA_012225885.1),0.1969696969696969
+'Bacillus mycoides' (GCA_000832605.1),0.6439393939393938
+'Bacillus sp. MZGC1' (GCA_002998605.1),0.125
+'Bacillus mycoides' (GCA_000160975.1),0.2916666666666667
+'Bacillus pretiosus SAICEU11T',0.3219696969696968
+Bacillus malacitensis NRRL B-41618,0.0984848484848484
+Bacillus changyiensis CLL-3-40T,0.2954545454545454
+Bacillus nitratireducens 4049,0.3598484848484847
+Bacillus safensis subsp. osmophilus CECT 9344T,0.1136363636363636
+Bacillus arachidis -SY8,0.3939393939393938
+'Bacillus pumilus' (GCA_001578205.1),0.2196969696969696
+Bacillus atrophaeus NBRC 15539,0.1742424242424241
+'Bacillus inaquosorum' (GCA_003148415.1),0.0719696969696969
+Bacillus weihenstephanensis NBRC 101238,0.2840909090909091
+Bacillus zhangzhouensis MCCC 1A08372,0.1515151515151514
+Bacillus pacificus MCCC 1A06182,0.3712121212121211
+Bacillus mojavensis RO-H-1,0.0643939393939393
+'Bacillus stercoris' (GCA_000738015.1),0.0
+'Bacillus cereus m1550' (GCA_000161035.1),0.1931818181818181
+'Bacillus cereus G9842' (GCA_000021305.1),0.6022727272727272
+'Bacillus atrophaeus' (GCA_001584335.1),0.1704545454545454
+'Bacillus thuringiensis serovar chinensis CT-43' (GCA_000193355.1),0.5984848484848484
+'Bacillus aerius 24K',0.2007575757575757
+Bacillus velezensis NRRL B-41580,0.0984848484848484
+'Bacillus thuringiensis Bt407' (GCA_000161495.1),0.2462121212121212
+Bacillus wiedmannii FSL W8-0169,0.3749999999999999
+Bacillus subtilis NCIB 3610,0.0681818181818181
+Bacillus sonorensis NBRC 101234,0.231060606060606
+Bacillus thuringiensis ATCC 10792,0.2462121212121212
+Bacillus anthracis ATCC 14578,0.5719696969696968
+Bacillus licheniformis ATCC 14580,0.1931818181818181
+Bacillus inaquosorum KCTC 13429,0.0265151515151514
+Bacillus glycinifermentans GO-13,0.2083333333333333
+Bacillus amyloliquefaciens DSM 7,0.2121212121212121
+Bacillus vallismortis DV1-F-3,0.2121212121212121
+'Bacillus subtilis PY79' (GCA_000497485.1),0.0719696969696969
+Bacillus pumilus ATCC 7061,0.1477272727272726
+'Bacillus velezensis' (GCA_001461825.1),0.0984848484848484
+'Bacillus anthracis str. A0248' (GCA_000022865.1),0.5719696969696968
+Bacillus invictae DSM 26896,0.1287878787878786
+Bacillus subtilis ATCC 6051,0.0719696969696969
+Bacillus paranthracis MCCC 1A00395,0.3219696969696968
+'Micromonospora provocatoris MT25',0.8030303030303029
+Bacillus amyloliquefaciens subsp. plantarum FZB42,0.2121212121212121
+'Bacillus amyloliquefaciens' (GCA_003546075.1),0.1212121212121212
+'Bacillus cereus Rock1-15' (GCA_000161175.1),0.2159090909090908
+'Bacillus vanillea XY18',0.106060606060606
+Bacillus mobilis MCCC 1A05942,0.4166666666666666
+'Bacillus subtilis BSn5' (GCA_000186745.1),0.087121212121212
+Bacillus tropicus N24,0.318181818181818
+Bacillus cabrialesii subsp. tritici TSO2,0.0984848484848484
+Bacillus dicomae MHSD28T,0.2234848484848484
+Bacillus mexicanus FSQ1,0.1704545454545454
+Bacillus siamensis KCTC 13613,0.0681818181818181
+Bacillus axarquiensis NRRL B-41617,0.0795454545454545
+'Bacillus oryzicola KACC 18228T',0.1212121212121212
+Bacillus sonorensis KCTC 13918,0.2424242424242424
+Bacillus stercoris D7XPN1,0.0
+'Bacillus licheniformis' (GCA_002504325.1),0.2196969696969696
+Bacillus halotolerans DSM 8802,0.0833333333333333
+'Bacillus subtilis' (GCA_000772205.1),0.1893939393939393
+Bacillus proteolyticus MCCC 1A00365,0.3787878787878787
+'Bacillus subtilis subsp. subtilis str. 168' (GCA_000009045.1),0.0719696969696969
+Bacillus mycoides DSM 2048,0.2992424242424243
+Bacillus paramycoides NH24A2,0.3295454545454544
+'Bacillus subtilis' (GCA_002055965.1),0.0719696969696969
+Bacillus australimaris NH7I_1,0.1212121212121212
+'Bacillus amyloliquefaciens DSM 7 = ATCC 23350' (GCA_000196735.1),0.2121212121212121
+'Bacillus licheniformis' (GCA_001726125.1),0.2121212121212121
+'Bacillus licheniformis' (GCA_002074075.1),0.2045454545454545
+Bacillus swezeyi NRRL B-41294,0.2386363636363636
+Bacillus toyonensis NCIMB 14858,0.6969696969696969
+Bacillus licheniformis DSM 13,0.1931818181818181
+'Bacillus licheniformis DSM 13 = ATCC 14580' (GCA_000008425.1),0.1931818181818181
+'BREB03',0.0606060606060605
+Bacillus cabrialesii TE3,0.0719696969696969
+'Bacillus cereus ATCC 14579' (GCA_000007825.1),0.5909090909090908
